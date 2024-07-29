@@ -1,0 +1,19 @@
+.header__admin-menu {
+    padding: 10px 20px;
+    background-color: #323072;
+    display: flex;
+    gap: 20px;
+    border-bottom: 1px solid #0a0831;
+}
+
+.header__admin-link {
+    color: #fff;
+    padding: 10px 15px;
+    border: 1px solid #fff;
+    transition: 0.3s;
+}
+
+.header__admin-link:hover {
+    background-color: #fff;
+    color: #323072;
+}

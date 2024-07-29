@@ -1,0 +1,19 @@
+.edit-page {
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+}
+
+.edit-page a {
+    display: block;
+    width: 80px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #33910e;
+    border-radius: 100%;
+}
+
+.edit-page a img {
+    width: 100%;
+}
